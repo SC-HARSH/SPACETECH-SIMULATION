@@ -1,0 +1,16 @@
+body{
+    background-image: url(https://sc-harsh.github.io/SPACETECH-SIMULATION/bg5.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+img{
+    width: 50%;
+    border-radius: 25px;
+    color: white;
+}
+h1{
+    color: black;
+}
+h6{
+    margin-top: 75px;
+}

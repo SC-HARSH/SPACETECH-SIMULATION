@@ -1,0 +1,22 @@
+#bodymain{
+    background-image: url("https://sc-harsh.github.io/SPACETECH-SIMULATION/bg.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+h1{
+    color: white;
+    font-size: 75px;
+    font-weight: bolder;
+}
+p{
+    color: white;
+    font-size: large;
+    font-weight: bolder;
+}
+.container{
+    cursor: url("https://sc-harsh.github.io/SPACETECH-SIMULATION/cursor.png"), auto;
+}
+footer{
+    margin: 0px;
+}
+
